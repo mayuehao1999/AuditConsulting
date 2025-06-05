@@ -9,6 +9,7 @@
 - Vite
 - Pinia (状态管理)
 - Vue Router
+- Inspira UI组件库，地址https://inspira-ui.com/components
 
 后端:
 - Go 语言
